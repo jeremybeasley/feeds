@@ -165,3 +165,9 @@ Using this as a way to void newsletters
 
 #### Current 
 - O'Reilly Design, Data, etc.
+
+- - - 
+
+## Youtube Subs 
+
+- link to profile 
