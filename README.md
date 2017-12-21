@@ -32,7 +32,7 @@ Podcasts that focus on broader societal issues including news, race and identity
 - [The Nod](https://gimletmedia.com/the-nod/)
 - [Pod Save America](https://art19.com/shows/pod-save-america)
 - [Radio Atlantic](https://www.theatlantic.com/podcasts/radio-atlantic/)
-- [Note to Self](http://www.wnyc.org/shows/notetoself)\*
+- [Note to Self](http://www.wnyc.org/shows/notetoself) \*
 - [The New Washington](https://www.nytimes.com/podcasts/new-washington) *
 - [FiveThirtyEight Politics](https://fivethirtyeight.com/tag/fivethirtyeight-podcasts/) *
 - [Strong Opinions Loosely Held](https://art19.com/shows/strong-opinions-loosely-held) *
@@ -40,7 +40,7 @@ Podcasts that focus on broader societal issues including news, race and identity
 #### Retired 
 - [NYT Daily](https://www.nytimes.com/podcasts/the-daily). Great podcast although for mental health's sake, I don't think I can consume subscribe to the daily news cycle. 
 
-/ / / /
+/  /  /  / 
 
 ### Design 
 Self-explanatory. Podcast cover a range of sub-disciplines in design focusing on information design (data vis) and digital product design. Side note, I've cycled through a ton of design podcasts and the SNR feels too low for me. Podcasts that dig deep through someone's body of work is . Those that focus a ton of casual chit-chat are hit-or-miss for me based on the interviewer style and the personality of the interviewee. 
@@ -55,8 +55,7 @@ Self-explanatory. Podcast cover a range of sub-disciplines in design focusing on
 #### Retired 
 - [Design Details](https://spec.fm/podcasts/design-details)
 
-/ / / /
-
+/  /  /  / 
 ### Dev
 Podcasts that get into the weeds of specific tech. Note, I struggle with this category of podcasts. Given how code-oriented the content for this category can be, I'm not sure the medium (audio) does it much favors. Video podcasts may be a better choice. Here's the starter list that I'm working with.  
 
@@ -71,10 +70,9 @@ Podcasts that get into the weeds of specific tech. Note, I struggle with this ca
 - [Software Engineering Daily](https://softwareengineeringdaily.com/category/podcast/) *
 
 #### Retired 
-None so far. 
+- None so far. 
 
-/ / / /
-
+/  /  /  / 
 ### Econ × Business
 A group of podcasts that focus on current economic issues, long-form interviews with entrepreneurs and broader topics in management/leadership. 
 
@@ -89,8 +87,7 @@ A group of podcasts that focus on current economic issues, long-form interviews 
 #### Retired 
 - [PlanetMoney](https://www.npr.org/podcasts/510289/planet-money)
 
-/ / / /
-
+/  /  /  / 
 ### Explore 
 Podcasts covering (pop) culture analysis in the US and around the world.
 
@@ -109,10 +106,9 @@ Podcasts covering (pop) culture analysis in the US and around the world.
 
 
 #### Retired 
-None so far. 
+- None so far. 
 
-/ / / /
-
+/  /  /  / 
 ### Sports 
 Self-explanatory. I don't enjoy much "hot take"-oriented sports shows so I try to curate those that do deeper analysis (often with statistics) or ones that presents novel POVs. 
 
@@ -135,7 +131,7 @@ Set of podcasts that cover technology from a conceptual level.
 - [Y Combinator](https://blog.ycombinator.com/category/podcast/)
 
 #### Retired 
-None so far.
+- None so far.
 
 - - - 
 
