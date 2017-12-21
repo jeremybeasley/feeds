@@ -157,3 +157,11 @@ I have a long history with RSS feeds. I've hemmed and hawed for years on the opt
 
 So as of today, I'm putting my RSS habit **on pause**. 
 
+/ / / / 
+
+Using this as a way to void newsletters 
+
+### Design 
+
+#### Current 
+- O'Reilly Design, Data, etc.
