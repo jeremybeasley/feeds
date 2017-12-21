@@ -1,6 +1,6 @@
 # feeds
 
-A quartterly snapshot of my media diet of podcasts and RSS feeds, as of **Winter 2017**. 
+A quarterly snapshot of my media diet of podcasts and RSS feeds, as of **Winter 2017**. 
 
 - - - 
 
