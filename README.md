@@ -20,6 +20,8 @@ A few final notes:
 - If you wanted to easily import this curated podcast list into your podcaster of choice, [snatch my OPML](podcasts/2017Q4_podcasts.opml). 
 - I've marked podcasts I've recently starting listening to with a `*`.  
 
+\
+\
 / / / /
 
 ### Balance 
@@ -40,6 +42,8 @@ Podcasts that focus on broader societal issues including news, race and identity
 #### Retired 
 - [NYT Daily](https://www.nytimes.com/podcasts/the-daily). Great podcast although for mental health's sake, I don't think I can consume subscribe to the daily news cycle. 
 
+\
+\
 /  /  /  / 
 
 ### Design 
@@ -55,6 +59,8 @@ Self-explanatory. Podcast cover a range of sub-disciplines in design focusing on
 #### Retired 
 - [Design Details](https://spec.fm/podcasts/design-details)
 
+\
+\
 /  /  /  / 
 ### Dev
 Podcasts that get into the weeds of specific tech. Note, I struggle with this category of podcasts. Given how code-oriented the content for this category can be, I'm not sure the medium (audio) does it much favors. Video podcasts may be a better choice. Here's the starter list that I'm working with.  
@@ -72,6 +78,8 @@ Podcasts that get into the weeds of specific tech. Note, I struggle with this ca
 #### Retired 
 - None so far. 
 
+\
+\
 /  /  /  / 
 ### Econ × Business
 A group of podcasts that focus on current economic issues, long-form interviews with entrepreneurs and broader topics in management/leadership. 
@@ -87,6 +95,8 @@ A group of podcasts that focus on current economic issues, long-form interviews 
 #### Retired 
 - [PlanetMoney](https://www.npr.org/podcasts/510289/planet-money)
 
+\
+\
 /  /  /  / 
 ### Explore 
 Podcasts covering (pop) culture analysis in the US and around the world.
@@ -108,6 +118,8 @@ Podcasts covering (pop) culture analysis in the US and around the world.
 #### Retired 
 - None so far. 
 
+\
+\
 /  /  /  / 
 ### Sports 
 Self-explanatory. I don't enjoy much "hot take"-oriented sports shows so I try to curate those that do deeper analysis (often with statistics) or ones that presents novel POVs. 
@@ -138,8 +150,8 @@ Set of podcasts that cover technology from a conceptual level.
 ## RSS Feeds
 
 I have a long history with RSS feeds. I've hemmed and hawed for years on the optimal use and setup of my RSS feeds to maximize insight/enjoyment with minimum noise or irrelevant comment (I'm talking to you Twitter!). My current POV on RSS feeds is this—no más. The short of it is this: 
-- Feeds were a primery way for me to stay updated on particular topics areas over time
-- Feeds are inherently a "push" interaction versus a "pull" interaction (I receive content based on the cadence of the publisher versus just-in-time in response to my needs) 
+- Feeds were a primary way for me to stay updated on particular topics areas over time. 
+- Feeds are inherently a "push" interaction versus a "pull" interaction (I receive content based on the cadence of the publisher versus just-in-time in response to my needs). 
 - Culling through feeds and Instapaper to read to completion was a time-intensive task. 
 - All things consider, I couldn't continue to justify this investment relative to other approaches to consuming this info and relative to enjoyment of other activities. 
 
